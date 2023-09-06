@@ -1,0 +1,10 @@
+text	emotion
+"""I love this product!"""	happy
+"""This is terrible."	sad
+"""I am so angry right now!"""	angry
+"""I feel indifferent about it."""	neutral
+"""This is amazing news!"""	happy
+"""I'm feeling very sad."""	sad
+"""What a surprise!"""	happy
+"""This is frustrating."""	angry
+"""I don't care."""	neutral
